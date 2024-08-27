@@ -3,7 +3,11 @@
   padding: 0;
   font-family: Arial, sans-serif;
   background-color: #b1cbee;
+  background-image: url(https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/48572.png);
+  background-size: cover;
+
 }
+
 .container{
   max-width: 600px;
   background: white;
@@ -18,7 +22,7 @@
   display: flex;
   justify-content: space-between;
   margin:18px 0;
-  border-bottom:1px dashed grey;
+  border-bottom:1px dashed rgb(221, 221, 221);
   padding: 30px 0;
 }
  
@@ -30,6 +34,7 @@
   display: flex;
   font-size: 48px;
   font-weight: bold;
+  color: #4E31AA;
 
 }
 .time small{
@@ -40,6 +45,7 @@
 }
 .date{
   opacity:0.7;
+  color: #46024d;
 }
 
 select{
@@ -49,19 +55,25 @@ select{
   border-radius: 4px;
   padding: 10px;
   font-size: 18px;
+  background-color: #eef3f5;
+  color: #050b7e;
+  font-family: merieda;
 
 }
 h1 {
-  color: #333;
-  font-size: 36px;
+  color: #050C9C;
+  font-size: 52px;
   text-align: center;
-  font-family: sans-serif;
+  font-family: merienda;
 
 }
 
 h2 {
   margin: 0 0 5px;
-  font-size: 28px;
+  font-size: 32px;
+  color: #FF0080;
+  font-family: spicy rice;
+  font-weight: 100;
 } 
 footer{
   text-align: center;
